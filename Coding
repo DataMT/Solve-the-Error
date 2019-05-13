@@ -7,6 +7,7 @@ SyntaxError: Non-ASCII character '\xca' in file d:/Tech/python practice/day05.py
 Install:
 Chinese (Simplified) Language Pack for Visual Studio Code
 
+#当在Python 2.X文件中写中文注释或输出中文时候，经常会出现编译错误（在Python 3.X中没有这种错误。
 # Correct：
 adding：
 
