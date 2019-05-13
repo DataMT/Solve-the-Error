@@ -1,1 +1,13 @@
 
+(base) D:\Tech\python practice>D:/Tech/VNConda/python.exe "d:/Tech/python practice/day05.py"
+  File "d:/Tech/python practice/day05.py", line 4
+SyntaxError: Non-ASCII character '\xca' in file d:/Tech/python practice/day05.py on line 4, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
+
+#这个只是显示语言包，不是改变coding乱码的问题。
+Install:
+Chinese (Simplified) Language Pack for Visual Studio Code
+
+# Correct：
+adding：
+
+#coding=utf-8
