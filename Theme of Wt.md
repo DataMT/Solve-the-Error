@@ -1,0 +1,6 @@
+- the princeple of WordCloud 
+- Python： set_index(), reset_index()
+- Python: Counter() and dict for counting
+- Mysql Window Function https://dev.mysql.com/doc/refman/8.0/en/window-functions.html
+- Mysql Workbench https://dev.mysql.com/doc/workbench/en/
+- Data Mining Algorithm
