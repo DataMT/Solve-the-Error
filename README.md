@@ -1,2 +1,2 @@
 # Solve-the-Error
-recording the mistakes or errors I have
+Recording the mistakes or errors
