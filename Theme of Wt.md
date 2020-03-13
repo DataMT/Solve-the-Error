@@ -4,3 +4,6 @@
 - Mysql Window Function https://dev.mysql.com/doc/refman/8.0/en/window-functions.html
 - Mysql Workbench https://dev.mysql.com/doc/workbench/en/
 - Data Mining Algorithm
+- Wordcloud with Chinese garbled characters,https://blog.csdn.net/Dick633/article/details/80261233
+- NLP
+- PowerBI Local deployment and 数据权限设计
