@@ -7,3 +7,6 @@
 - Wordcloud with Chinese garbled characters,https://blog.csdn.net/Dick633/article/details/80261233
 - NLP
 - PowerBI Local deployment and 数据权限设计
+- Data mart\dataware house\database
+- Data Modeling review
+
