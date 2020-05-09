@@ -1,4 +1,4 @@
-
+### 1
 (base) D:\Tech\python practice>D:/Tech/VNConda/python.exe "d:/Tech/python practice/day05.py"
   File "d:/Tech/python practice/day05.py", line 4
 SyntaxError: Non-ASCII character '\xca' in file d:/Tech/python practice/day05.py on line 4, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
@@ -11,3 +11,18 @@ Chinese (Simplified) Language Pack for Visual Studio Code
 adding：
 
 #coding=utf-8
+
+### 2.在window 上安装git
+报错原因： 前期尝试一直无法正常生成id_rsa和id_rsa.pub两个文件。重启电脑后，需要先输入 
+
+git config --global user.name "your name" 
+git config --global user.email "your@email.com"
+
+再次输入
+
+ssh-keygen -t rsa -C "your@email.com" 本次成功
+
+
+
+之前输入的是github提供的 $ ssh-keygen -t rsa -b 4096 -C "your_email@example.com" ，也无法正常生成 rsa 两个文件。
+
